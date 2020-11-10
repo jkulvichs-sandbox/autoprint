@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/autoprint)
+![GitHub top language](https://img.shields.io/github/languages/top/jkulvichs-sandbox/autoprint)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/jkulvichs-sandbox/autoprint)
+![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/autoprint)
+
 # AutoPrint
 Сервис для автоматической отправки на печать файлов
 
